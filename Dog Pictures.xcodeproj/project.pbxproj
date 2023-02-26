@@ -11,6 +11,7 @@
 		98A33E9D29AB79770037B830 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98A33E9C29AB79770037B830 /* ContentView.swift */; };
 		98A33E9F29AB797A0037B830 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 98A33E9E29AB797A0037B830 /* Assets.xcassets */; };
 		98A33EA229AB797A0037B830 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 98A33EA129AB797A0037B830 /* Preview Assets.xcassets */; };
+		98A33EA929AB79EF0037B830 /* DogController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98A33EA829AB79EF0037B830 /* DogController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		98A33E9C29AB79770037B830 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		98A33E9E29AB797A0037B830 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		98A33EA129AB797A0037B830 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		98A33EA829AB79EF0037B830 /* DogController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DogController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				98A33E9A29AB79770037B830 /* Dog_PicturesApp.swift */,
+				98A33EA829AB79EF0037B830 /* DogController.swift */,
 				98A33E9C29AB79770037B830 /* ContentView.swift */,
 				98A33E9E29AB797A0037B830 /* Assets.xcassets */,
 				98A33EA029AB797A0037B830 /* Preview Content */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				98A33E9D29AB79770037B830 /* ContentView.swift in Sources */,
+				98A33EA929AB79EF0037B830 /* DogController.swift in Sources */,
 				98A33E9B29AB79770037B830 /* Dog_PicturesApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
